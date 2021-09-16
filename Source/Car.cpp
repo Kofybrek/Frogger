@@ -1,4 +1,5 @@
 #include <chrono>
+#include <cmath>
 #include <SFML/Graphics.hpp>
 
 #include "Headers/Car.hpp"
